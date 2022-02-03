@@ -4,7 +4,7 @@
 
 name: Node.js CI
 
-on:
+on:0x3f17f1962B36e491b30A40b2405849e597Ba5FB5
   push:
     branches: [ master ]
   pull_request:
